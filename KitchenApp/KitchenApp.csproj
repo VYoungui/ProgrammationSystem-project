@@ -8,8 +8,10 @@
 
     <ItemGroup>
       <Folder Include="Kitchen.controller\" />
-      <Folder Include="Kitchen.dao\" />
-      <Folder Include="Kitchen.model\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="Kitchen.dao\Dao.csproj" />
     </ItemGroup>
 
 </Project>
