@@ -1,0 +1,12 @@
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\RestoratoinroomApplication\bin\Debug\net7.0\RestoratoinroomApplication.deps.json
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\RestoratoinroomApplication\bin\Debug\net7.0\RestoratoinroomApplication.dll
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\RestoratoinroomApplication\bin\Debug\net7.0\RestoratoinroomApplication.pdb
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\RestoratoinroomApplication\obj\Debug\net7.0\RestoratoinroomApplication.csproj.AssemblyReference.cache
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\RestoratoinroomApplication\obj\Debug\net7.0\RestoratoinroomApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\RestoratoinroomApplication\obj\Debug\net7.0\RestoratoinroomApplication.AssemblyInfoInputs.cache
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\RestoratoinroomApplication\obj\Debug\net7.0\RestoratoinroomApplication.AssemblyInfo.cs
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\RestoratoinroomApplication\obj\Debug\net7.0\RestoratoinroomApplication.csproj.CoreCompileInputs.cache
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\RestoratoinroomApplication\obj\Debug\net7.0\RestoratoinroomApplication.dll
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\RestoratoinroomApplication\obj\Debug\net7.0\refint\RestoratoinroomApplication.dll
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\RestoratoinroomApplication\obj\Debug\net7.0\RestoratoinroomApplication.pdb
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\RestoratoinroomApplication\obj\Debug\net7.0\ref\RestoratoinroomApplication.dll

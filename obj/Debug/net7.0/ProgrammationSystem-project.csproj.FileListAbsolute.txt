@@ -1,0 +1,12 @@
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\bin\Debug\net7.0\ProgrammationSystem-project.deps.json
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\bin\Debug\net7.0\ProgrammationSystem-project.dll
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\bin\Debug\net7.0\ProgrammationSystem-project.pdb
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\obj\Debug\net7.0\ProgrammationSystem-project.csproj.AssemblyReference.cache
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\obj\Debug\net7.0\ProgrammationSystem-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\obj\Debug\net7.0\ProgrammationSystem-project.AssemblyInfoInputs.cache
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\obj\Debug\net7.0\ProgrammationSystem-project.AssemblyInfo.cs
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\obj\Debug\net7.0\ProgrammationSystem-project.csproj.CoreCompileInputs.cache
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\obj\Debug\net7.0\ProgrammationSystem-project.dll
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\obj\Debug\net7.0\refint\ProgrammationSystem-project.dll
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\obj\Debug\net7.0\ProgrammationSystem-project.pdb
+C:\Users\Victoire Youngui\OneDrive\Documents\UCAC-ICAM\X3\Programmation-Concurrente\ProgrammationSystem-project\obj\Debug\net7.0\ref\ProgrammationSystem-project.dll
