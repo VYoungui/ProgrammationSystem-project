@@ -9,7 +9,7 @@ public class DAO
     public DAO()
     {
         // Récupérer la chaîne de connexion depuis le fichier de configuration
-        connectionString = ConfigurationManager.ConnectionStrings["BDD_RESTAUConnectionString"].ConnectionString;
+        connectionString = "Server=LEONARD\\LEONARD;Database=BDD_RESTAU;Trusted_Connection=True";
     }
 
     public IDbConnection GetConnection()
