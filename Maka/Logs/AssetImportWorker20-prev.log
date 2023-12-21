@@ -1,0 +1,546 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.14f1 (eff2de9070d8) revision 15725278'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Core' Language: 'en' Physical Memory: 16044 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker20
+-projectPath
+D:/Projects/UNITY/MAKA
+-logFile
+Logs/AssetImportWorker20.log
+-srvPort
+63096
+Successfully changed project path to: D:/Projects/UNITY/MAKA
+D:/Projects/UNITY/MAKA
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [65936] Host "[IP] 172.22.80.1 [Port] 0 [Flags] 2 [Guid] 1491261738 [EditorId] 1491261738 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-75BU567Q) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [65936] Host "[IP] 172.22.80.1 [Port] 0 [Flags] 2 [Guid] 1491261738 [EditorId] 1491261738 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-75BU567Q) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 19 workers.
+Refreshing native plugins compatible for Editor in 14.58 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.14f1 (eff2de9070d8)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Projects/UNITY/MAKA/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Ti Laptop GPU (ID=0x24a0)
+    Vendor:   NVIDIA
+    VRAM:     8032 MB
+    Driver:   31.0.15.3645
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56088
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.011308 seconds.
+- Loaded All Assemblies, in  0.669 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.404 seconds
+Domain Reload Profiling: 1070ms
+	BeginReloadAssembly (171ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (46ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (80ms)
+	LoadAllAssembliesAndSetupDomain (350ms)
+		LoadAssemblies (167ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (347ms)
+			TypeCache.Refresh (345ms)
+				TypeCache.ScanAssembly (329ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (405ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (319ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (13ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (208ms)
+			ProcessInitializeOnLoadMethodAttributes (82ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.237 seconds
+Refreshing native plugins compatible for Editor in 5.65 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.210 seconds
+Domain Reload Profiling: 2444ms
+	BeginReloadAssembly (219ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (45ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (64ms)
+	LoadAllAssembliesAndSetupDomain (892ms)
+		LoadAssemblies (670ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (346ms)
+			TypeCache.Refresh (278ms)
+				TypeCache.ScanAssembly (256ms)
+			ScanForSourceGeneratedMonoScriptInfo (51ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (1211ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (965ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (105ms)
+			ProcessInitializeOnLoadAttributes (739ms)
+			ProcessInitializeOnLoadMethodAttributes (93ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 8.15 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5819 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 99 unused Assets / (0.8 MB). Loaded Objects now: 6267.
+Memory consumption went from 225.4 MB to 224.6 MB.
+Total: 6.261700 ms (FindLiveObjects: 0.728600 ms CreateObjectMapping: 0.531900 ms MarkObjects: 4.268000 ms  DeleteObjects: 0.731600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/GirlAI.cs: fe47a3e386e0dfee315848202ba1be74 -> 4112cf94661a9c3291f18c0e185dc9d1
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/GameManager.cs: f6182d712e34e20e3202214886862cdb -> 9933fbcc6190e2a9171c2ec8808a053e
+  custom:scripting/monoscript/fileName/clientDestructor.cs: eb3b34b7a09ba0608fc0971d40dc388c -> 26852bb3b2419f4885b7018e6733c5f1
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/ClientAI.cs: 110716776314898b5d99f27c2622ec45 -> 153760c3d54e0bf89ec7896562a2f535
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:scripting/monoscript/fileName/chairManagement.cs: 125071692b866e34826d4e193d640211 -> cb9360645d4c9ae7b3d5f6d7d41e3d7c
+  custom:scripting/monoscript/fileName/Player_Controller.cs: 5acac31b77234388339b7e52b97d2885 -> 4a36467596b337bc01d81cc5b98a6f63
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GirlGFX.cs: acc8de9e7df4c0a4990397c014b1c4c2 -> 2b753d96370d89357af15c69515aacc9
+  custom:scripting/monoscript/fileName/WaitingQueue.cs: 59e8fe48c5580381e7f6ef6384dabf41 -> f194dd0912373490ba69b021f3d0eea8
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 181205.120819 seconds.
+  path: Assets/Assets/TileSets/food_79.asset
+  artifactKey: Guid(f1bbff9b9f99a1946b8caf71438114a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_79.asset using Guid(f1bbff9b9f99a1946b8caf71438114a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f91713e4b38fdca5d1fefb64e211341') in 0.133048 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Assets/TileSets/food_71.asset
+  artifactKey: Guid(9aeb9f62480d6444780b3964961cd4aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_71.asset using Guid(9aeb9f62480d6444780b3964961cd4aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3097e25c6cbd7bea043a707b72f4acd') in 0.016826 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Assets/TileSets/food_116.asset
+  artifactKey: Guid(a877894332be9d7469a435ee86406bd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_116.asset using Guid(a877894332be9d7469a435ee86406bd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56be4b8db490478febc11c8a161d8a79') in 0.014389 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Assets/TileSets/food_85.asset
+  artifactKey: Guid(2b5a09802b9d5234d855b10362681711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_85.asset using Guid(2b5a09802b9d5234d855b10362681711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49dc3b281afb8ed3a91c3a4c26891627') in 0.017744 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000942 seconds.
+  path: Assets/Assets/TileSets/food_159.asset
+  artifactKey: Guid(db242bffb69adad47ba2acbf98016069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_159.asset using Guid(db242bffb69adad47ba2acbf98016069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2618cffdf508294ab8a9e504046089fe') in 0.015437 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Assets/TileSets/food_229.asset
+  artifactKey: Guid(470d8800589673a408803e609d9f3440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_229.asset using Guid(470d8800589673a408803e609d9f3440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ef3dc447b2b9f37240b958e5da8275b') in 0.016741 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Assets/TileSets/food_237.asset
+  artifactKey: Guid(766d947b6f8b9fa43a0deae0a940aa52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_237.asset using Guid(766d947b6f8b9fa43a0deae0a940aa52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7604b3d6655c518b50ff275b536df86d') in 0.013425 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Assets/TileSets/food_261.asset
+  artifactKey: Guid(ad055ae11f9b174418bf51a758d8e73c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_261.asset using Guid(ad055ae11f9b174418bf51a758d8e73c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96509822a73397c295fe38cc605a60e0') in 0.013339 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Assets/TileSets/food_308.asset
+  artifactKey: Guid(71adc0adedf5c394897ab8e4436be926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_308.asset using Guid(71adc0adedf5c394897ab8e4436be926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19bc5658b6db1461917684fd2d80aa50') in 0.015447 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Assets/TileSets/food_244.asset
+  artifactKey: Guid(b675452829fdf264e9af5fc20c037fc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_244.asset using Guid(b675452829fdf264e9af5fc20c037fc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7320fbe1a9665a88f22e35997f68d9d9') in 0.014205 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Assets/TileSets/food_144.asset
+  artifactKey: Guid(dcee68a2341c6a342ac1f9f7f01183b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_144.asset using Guid(dcee68a2341c6a342ac1f9f7f01183b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d09906665b7ea94086b8c3510c04793') in 0.015047 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Assets/TileSets/food_283.asset
+  artifactKey: Guid(a6a2c3f8bd7bc934799dbc86a2ec4bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_283.asset using Guid(a6a2c3f8bd7bc934799dbc86a2ec4bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '201bbf8195a4e2451cc3a98c0d2b6e2c') in 0.013875 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Assets/TileSets/food_273.asset
+  artifactKey: Guid(e54c5696b062b514e9b0a67c5b3f8dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_273.asset using Guid(e54c5696b062b514e9b0a67c5b3f8dde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1124bb6279bb95b2aebbb95c5889f0ae') in 0.015550 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Assets/TileSets/food_238.asset
+  artifactKey: Guid(1ad052429cf1e984ca49a618023ea5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_238.asset using Guid(1ad052429cf1e984ca49a618023ea5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14b355e5e35df1666beda5f6faf93100') in 0.012693 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Assets/TileSets/food_315.asset
+  artifactKey: Guid(6f5beecb9cb20044eab118625f29045c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_315.asset using Guid(6f5beecb9cb20044eab118625f29045c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb91b4a194acda4434db64756d969cd1') in 0.013175 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Assets/TileSets/food_230.asset
+  artifactKey: Guid(dd87206587c60ae48abc5b11acd07b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_230.asset using Guid(dd87206587c60ae48abc5b11acd07b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eafacca5914c97509afa216b1ebfbcb') in 0.020857 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Assets/TileSets/food_285.asset
+  artifactKey: Guid(e3a6e7d022dbd2040bf2b3929fcb2f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_285.asset using Guid(e3a6e7d022dbd2040bf2b3929fcb2f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '240fcb791b40e409824fec82e1a2deca') in 0.013741 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Assets/TileSets/food_300.asset
+  artifactKey: Guid(3754ba6de8625d644b66bc16bc9240e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_300.asset using Guid(3754ba6de8625d644b66bc16bc9240e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e19cd6148f853f7e560e147ea1b10d9') in 0.007999 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Assets/TileSets/food_157.asset
+  artifactKey: Guid(cd1ab7f49c696a544b73be655f72d902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_157.asset using Guid(cd1ab7f49c696a544b73be655f72d902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baa474ee041d08659852b72496723d6e') in 0.016215 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Assets/TileSets/food_94.asset
+  artifactKey: Guid(78b182bb1237a4649b9c2b00ef9e11d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_94.asset using Guid(78b182bb1237a4649b9c2b00ef9e11d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a977b640b55d389331cd7479d651e2bb') in 0.014410 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Assets/TileSets/food_282.asset
+  artifactKey: Guid(82be2eda0b7a88f418b53bf223a9bfd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_282.asset using Guid(82be2eda0b7a88f418b53bf223a9bfd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6161beae66b8af325dd45c291fa1f6b1') in 0.016173 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Assets/TileSets/food_258.asset
+  artifactKey: Guid(e78aed1dcf139834cb4d4ca8bbb81397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_258.asset using Guid(e78aed1dcf139834cb4d4ca8bbb81397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80ed93df0be22bcc948e9abd2dfa3439') in 0.015331 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Assets/TileSets/food_73.asset
+  artifactKey: Guid(3ba2039dc3ac3614684f860b6f6766e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_73.asset using Guid(3ba2039dc3ac3614684f860b6f6766e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72c97cd96a633937730aaf6f27e47785') in 0.019881 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Assets/TileSets/food_291.asset
+  artifactKey: Guid(700c800f342b68a47a4658d132b1ddbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_291.asset using Guid(700c800f342b68a47a4658d132b1ddbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42fa3dac44f6b172ba2e11e12cc20f28') in 0.014540 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Assets/TileSets/food_185.asset
+  artifactKey: Guid(5a04cf7691a3e3a42a80d9565b993750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_185.asset using Guid(5a04cf7691a3e3a42a80d9565b993750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f7a53d63e65731d27421a5a3cb53528') in 0.013249 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Assets/TileSets/food_211.asset
+  artifactKey: Guid(413dba04424f1d546943a6edb4a516b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_211.asset using Guid(413dba04424f1d546943a6edb4a516b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e2b2b83156e67ffc4c1b31b94633439') in 0.014655 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Assets/TileSets/food_318.asset
+  artifactKey: Guid(99a82ed634ac85846a623327802d83e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_318.asset using Guid(99a82ed634ac85846a623327802d83e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a8b931f34237aae0ee233b2d13ce77e') in 0.013605 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Assets/TileSets/food_264.asset
+  artifactKey: Guid(a5dc44e614fe03a46a4dd8001df85d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_264.asset using Guid(a5dc44e614fe03a46a4dd8001df85d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23f1131411ec426a6ce09fc6b33c029d') in 0.007192 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Assets/TileSets/food_301.asset
+  artifactKey: Guid(b42386b44283f454892dea8cb3f6dc83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_301.asset using Guid(b42386b44283f454892dea8cb3f6dc83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d5bb1cc7791024ba5836193a0305607') in 0.013507 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Assets/TileSets/food_287.asset
+  artifactKey: Guid(7891840265eb9084b8a691aac56a65a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_287.asset using Guid(7891840265eb9084b8a691aac56a65a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af3243b8cff35d30f87271e2bf5f56c8') in 0.013213 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Assets/TileSets/food_139.asset
+  artifactKey: Guid(c17cb29c7b5c0844fb23de53a6341b69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_139.asset using Guid(c17cb29c7b5c0844fb23de53a6341b69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a6693936ce7a48798442c2fca6de614') in 0.013023 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Assets/TileSets/food_260.asset
+  artifactKey: Guid(763d4bf097853094a89479415a71f1e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_260.asset using Guid(763d4bf097853094a89479415a71f1e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c59f13bb05d7fadfbb722d4383c3104') in 0.013982 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Assets/TileSets/food_175.asset
+  artifactKey: Guid(710da877145575549ab3f2c0152737f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_175.asset using Guid(710da877145575549ab3f2c0152737f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76596087c852f29665f31baf0f6eea45') in 0.015356 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Assets/TileSets/food_193.asset
+  artifactKey: Guid(51d1c4ad355bcc2418ae58f81293d6de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_193.asset using Guid(51d1c4ad355bcc2418ae58f81293d6de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7153912bf3de3e8b81bf48e42e217701') in 0.017693 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000650 seconds.
+  path: Assets/Assets/TileSets/food_262.asset
+  artifactKey: Guid(66bd214f40242a344b344cbc82c1c28d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_262.asset using Guid(66bd214f40242a344b344cbc82c1c28d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53b59ba798afb9018c5ca954164cbf63') in 0.007393 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Assets/TileSets/food_221.asset
+  artifactKey: Guid(35bd4aaaaa8446c46819ef89fc1121d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_221.asset using Guid(35bd4aaaaa8446c46819ef89fc1121d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab93cb405dd08fe0abf7c565bf57a4fc') in 0.016036 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Assets/TileSets/food_268.asset
+  artifactKey: Guid(1a2a07998baf0834989be0e2e851fd82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_268.asset using Guid(1a2a07998baf0834989be0e2e851fd82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40085096fd40634ef145b062fe61a7de') in 0.013638 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Assets/TileSets/food_208.asset
+  artifactKey: Guid(5476bcaeedd0e264d961cb3966cac7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_208.asset using Guid(5476bcaeedd0e264d961cb3966cac7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9546190c2f341d91f7147538bce1c791') in 0.015628 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Assets/TileSets/food_234.asset
+  artifactKey: Guid(e0ca48bdd1769f045a4852186826130f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_234.asset using Guid(e0ca48bdd1769f045a4852186826130f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69f8ad62db7f2ef3280eab895c499635') in 0.015180 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Assets/TileSets/food_303.asset
+  artifactKey: Guid(259e29e32c7b6974889981bfb1f0fcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_303.asset using Guid(259e29e32c7b6974889981bfb1f0fcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bd3992168850bbf77ca332e1379216f') in 0.013708 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Assets/TileSets/food_215.asset
+  artifactKey: Guid(4b1743fdb5e3381479c66ac5ea21a7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_215.asset using Guid(4b1743fdb5e3381479c66ac5ea21a7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a372ca8e8c41898427a4035ec6b837e') in 0.014030 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Assets/TileSets/food_304.asset
+  artifactKey: Guid(9aece19a9ce055949a1976a29778b00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_304.asset using Guid(9aece19a9ce055949a1976a29778b00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a361aef5421128d0883eca9c8d649cb') in 0.013686 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Assets/TileSets/food_109.asset
+  artifactKey: Guid(ae6f2f2ceebc2264fad4794cc24ae5c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_109.asset using Guid(ae6f2f2ceebc2264fad4794cc24ae5c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c8f26a674831b6ead87d834e699d403') in 0.014321 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Assets/TileSets/food_77.asset
+  artifactKey: Guid(b35ccc09c2a9bca4fb46e54c2127376c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/TileSets/food_77.asset using Guid(b35ccc09c2a9bca4fb46e54c2127376c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c137a2280d70fa25323d3b5111ec41af') in 0.013849 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
