@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TestConsole/1.0.0": {
+        "dependencies": {
+          "KitchenApp": "1.0.0"
+        },
+        "runtime": {
+          "TestConsole.dll": {}
+        }
+      },
+      "KitchenApp/1.0.0": {
+        "runtime": {
+          "KitchenApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KitchenApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
