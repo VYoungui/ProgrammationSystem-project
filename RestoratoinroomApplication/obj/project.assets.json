@@ -8,24 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Victoire Youngui\\.nuget\\packages\\": {}
+    "C:\\Users\\lenovo ThinkBook\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victoire Youngui\\OneDrive\\Documents\\UCAC-ICAM\\X3\\Programmation-Concurrente\\ProgrammationSystem-project\\RestoratoinroomApplication\\RestoratoinroomApplication.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo ThinkBook\\RiderProjects\\ProgrammationSystem-project\\RestoratoinroomApplication\\RestoratoinroomApplication.csproj",
       "projectName": "RestoratoinroomApplication",
-      "projectPath": "C:\\Users\\Victoire Youngui\\OneDrive\\Documents\\UCAC-ICAM\\X3\\Programmation-Concurrente\\ProgrammationSystem-project\\RestoratoinroomApplication\\RestoratoinroomApplication.csproj",
-      "packagesPath": "C:\\Users\\Victoire Youngui\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victoire Youngui\\OneDrive\\Documents\\UCAC-ICAM\\X3\\Programmation-Concurrente\\ProgrammationSystem-project\\RestoratoinroomApplication\\obj\\",
+      "projectPath": "C:\\Users\\lenovo ThinkBook\\RiderProjects\\ProgrammationSystem-project\\RestoratoinroomApplication\\RestoratoinroomApplication.csproj",
+      "packagesPath": "C:\\Users\\lenovo ThinkBook\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lenovo ThinkBook\\RiderProjects\\ProgrammationSystem-project\\RestoratoinroomApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Victoire Youngui\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\lenovo ThinkBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Victoire Youngui\\.dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

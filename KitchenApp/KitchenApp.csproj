@@ -10,6 +10,26 @@
       <Folder Include="Kitchen.controller\" />
       <Folder Include="Kitchen.dao\" />
       <Folder Include="Kitchen.model\" />
+      <Folder Include="Kitchen.model\clientOrder\" />
+      <Folder Include="Kitchen.model\foodStuff\" />
+      <Folder Include="Kitchen.model\interfaces\observables\" />
+      <Folder Include="Kitchen.model\interfaces\observers\" />
+      <Folder Include="Kitchen.model\kitchenStaff\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="Kitchen.model\kitchenStaff\KitchenStaff.cs" />
+      <Compile Remove="Kitchen.model\kitchenStaff\KitchenTask.cs" />
+      <Compile Remove="Kitchen.model\kitchenStaff\DishWasher.cs" />
+      <Compile Remove="Kitchen.model\kitchenStaff\Commis.cs" />
+      <Compile Remove="Kitchen.model\clientOrder\OrderStatus.cs" />
+      <Compile Remove="Kitchen.model\interfaces\AbstractKitchenFactory.cs" />
+      <Compile Remove="Kitchen.model\interfaces\SimulationTools.cs" />
+      <Compile Remove="Kitchen.model\interfaces\IKitchenModel.cs" />
+      <Compile Remove="Kitchen.model\interfaces\observables\KitchenToolsObservable.cs" />
+      <Compile Remove="Kitchen.model\interfaces\observables\ClientOrderObservable.cs" />
+      <Compile Remove="Kitchen.model\interfaces\IRecipe.cs" />
+      <Compile Remove="Kitchen.model\interfaces\observers\KitchenToolsObserver.cs" />
     </ItemGroup>
 
 </Project>
