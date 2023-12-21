@@ -10,3 +10,11 @@ C:\Users\lenovo ThinkBook\RiderProjects\ProgrammationSystem-project\KitchenApp\o
 C:\Users\lenovo ThinkBook\RiderProjects\ProgrammationSystem-project\KitchenApp\obj\Debug\net7.0\refint\KitchenApp.dll
 C:\Users\lenovo ThinkBook\RiderProjects\ProgrammationSystem-project\KitchenApp\obj\Debug\net7.0\KitchenApp.pdb
 C:\Users\lenovo ThinkBook\RiderProjects\ProgrammationSystem-project\KitchenApp\obj\Debug\net7.0\ref\KitchenApp.dll
+C:\Users\lenovo ThinkBook\RiderProjects\projet_test_progSystem\KitchenApp\obj\Debug\net7.0\KitchenApp.csproj.AssemblyReference.cache
+C:\Users\lenovo ThinkBook\RiderProjects\projet_test_progSystem\KitchenApp\obj\Debug\net7.0\KitchenApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo ThinkBook\RiderProjects\projet_test_progSystem\KitchenApp\obj\Debug\net7.0\KitchenApp.AssemblyInfoInputs.cache
+C:\Users\lenovo ThinkBook\RiderProjects\projet_test_progSystem\KitchenApp\obj\Debug\net7.0\KitchenApp.AssemblyInfo.cs
+C:\Users\lenovo ThinkBook\RiderProjects\projet_test_progSystem\KitchenApp\obj\Debug\net7.0\KitchenApp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo ThinkBook\RiderProjects\projet_test_progSystem\KitchenApp\obj\Debug\net7.0\KitchenApp.dll
+C:\Users\lenovo ThinkBook\RiderProjects\projet_test_progSystem\KitchenApp\obj\Debug\net7.0\refint\KitchenApp.dll
+C:\Users\lenovo ThinkBook\RiderProjects\projet_test_progSystem\KitchenApp\obj\Debug\net7.0\KitchenApp.pdb

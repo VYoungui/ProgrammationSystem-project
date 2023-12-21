@@ -25,18 +25,18 @@ public class Cook : KitchenStaff
                 if (!ing.Key.use(ing.Value) && ing.Key.initialQuantity >= ing.Value)
                 {
                     Console.WriteLine("Ingrédient " + ing.Key.Name + " Non suffisant");
-                    while (ing.Key.Quantity<ing.Value)
+                    /*while (ing.Key.Quantity<ing.Value)
                     {
-                    }
+                    }*/
 
                     ing.Key.use(ing.Value);
                 }
                 else if (ing.Key.initialQuantity < ing.Value)
                 {
                     ing.Key.initialQuantity = ing.Value;
-                    while (ing.Key.Quantity<ing.Value)
+                    /*while (ing.Key.Quantity<ing.Value)
                     {
-                    }
+                    }*/
 
                     ing.Key.use(ing.Value);
                 }
